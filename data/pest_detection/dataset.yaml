@@ -1,0 +1,17 @@
+names:
+- aphid
+- whitefly
+- powdery_mildew
+- leaf_chlorosis
+- tip_burn
+- botrytis
+- root_rot
+- nutrient_deficiency
+- spider_mite
+- fusarium
+- downy_mildew
+- healthy
+nc: 12
+path: C:\Users\Dell\OneDrive\Desktop\HYDRO\smarthydro_FINAL\hydro_api\data\pest_detection
+train: images/train
+val: images/val
